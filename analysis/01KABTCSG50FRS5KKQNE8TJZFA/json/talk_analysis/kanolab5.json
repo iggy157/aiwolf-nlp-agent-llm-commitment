@@ -1,0 +1,50 @@
+{"text": "みなさん、今日は大事な日です。誰が人狼で、誰が村人かを見極めるために、しっかりと話し合いましょう。自", "speaker": "タクミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "タクミさん、確かに今日は重要な日ですね。皆さんの意見を聞いて、誰が怪しいのか、しっかり見極めていきた", "speaker": "メイ", "mentions": [{"target": "タクミ", "valence": 0.25, "raw": "タクミさん、確かに今日は重要な"}], "co_roles": null, "affect": "P3"}
+{"text": "そうですね、タクミさん、メイさんの言う通り、今日は重要な日です。みんなの意見をしっかり聞いて、怪しい", "speaker": "ケンジ", "mentions": [{"target": "タクミ", "valence": 1.0, "raw": "そうですね、タクミさん、メイさんの言う通り"}, {"target": "メイ", "valence": 0.6666666666666666, "raw": "そうですね、タクミさん、メイさんの言う通り、今日は重要"}], "co_roles": null, "affect": "P3"}
+{"text": "タクミさん、メイさん、ケンジさんの意見に賛成です。私たち全員が協力して、人狼を見つけるためにしっかり", "speaker": "ユミ", "mentions": [{"target": "ケンジ", "valence": -0.5, "raw": "タクミさん、メイさん、ケンジさんの意見に賛成です。私"}, {"target": "タクミ", "valence": 0.0, "raw": "タクミさん、メイさん、ケンジさ"}, {"target": "メイ", "valence": -1.0, "raw": "タクミさん、メイさん、ケンジさんの意見に賛"}], "co_roles": null, "affect": "P4"}
+{"text": "みなさんの意見がまとまってきましたね。協力して人狼を見つけることが大切です。私も怪しいと思うポイント", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "みなさんの意見が出てきましたね。全員で協力して人狼を見つけていくことが本当に大切です。シュンイチさん", "speaker": "タクミ", "mentions": [{"target": "シュンイチ", "valence": 0.6, "raw": "けていくことが本当に大切です。シュンイチさん"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさんの意見、いいですね！私も怪しいと思うポイントについて具体的に話してみたいです。皆さん、", "speaker": "メイ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさんの意見、いいです"}], "co_roles": null, "affect": "P2"}
+{"text": "みんなの意見が出てきて、いい感じですね！メイさん、シュンイチさんが怪しいと思うポイントについて、ぜひ", "speaker": "ケンジ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "て、いい感じですね！メイさん、シュンイチさんが怪しいと思うポ"}, {"target": "メイ", "valence": 0.25, "raw": "見が出てきて、いい感じですね！メイさん、シュンイチさんが怪し"}], "co_roles": null, "affect": "P3"}
+{"text": "それでは、私からも意見を出しますね。シュンイチさんとメイさんの話を聞いて、具体的にどのポイントが怪し", "speaker": "ユミ", "mentions": [{"target": "シュンイチ", "valence": -0.25, "raw": "は、私からも意見を出しますね。シュンイチさんとメイさんの話を"}, {"target": "メイ", "valence": -0.2, "raw": "を出しますね。シュンイチさんとメイさんの話を聞いて、具体的に"}], "co_roles": null, "affect": "P2"}
+{"text": "シュンイチ: 皆さん、私が怪しいと思うポイントについてお話しします。まず、初日の発言が少し慎重な印象を", "speaker": "シュンイチ", "mentions": [{"target": "シュンイチ", "valence": 0.5, "raw": "シュンイチ: 皆さん、私が怪し"}], "co_roles": null, "affect": "P3"}
+{"text": "みなさん、シュンイチさんが慎重な印象を持たれているようですね。それについてもう少し詳しく聞かせてもら", "speaker": "タクミ", "mentions": [{"target": "シュンイチ", "valence": 0.2, "raw": "みなさん、シュンイチさんが慎重な印象を持"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさんの初日の発言が慎重だった点について、私も気になります。彼の発言が具体的にどの部分で慎重", "speaker": "メイ", "mentions": [{"target": "シュンイチ", "valence": 1.0, "raw": "シュンイチさんの初日の発言が慎"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさんの慎重な発言について、みんなが疑問を持っているのは良いことですね。シュンイチさん、具体", "speaker": "ケンジ", "mentions": [{"target": "シュンイチ", "valence": 0.5, "raw": "シュンイチさんの慎重な発言につ"}, {"target": "シュンイチ", "valence": 0.4, "raw": "持っているのは良いことですね。シュンイチさん、具体"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさんの発言が慎重だった点について、具体的に教えてもらえますか？みんなで意見を共有して、真実", "speaker": "ユミ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさんの発言が慎重だっ"}], "co_roles": null, "affect": "P3"}
+{"text": "私の初日の発言が慎重に聞こえたのは、ゲームの進行を見守る姿勢を持っていたからです。具体的には、他のプ", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさん、ゲームの進行を見守る姿勢ということですが、他のプレイヤーに対してどのような意見や考え", "speaker": "タクミ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、ゲームの進行を"}], "co_roles": null, "affect": "P2"}
+{"text": "シュンイチさん、ゲームの進行を見守る姿勢というのは大切だと思いますが、具体的にどのような意見や考えを", "speaker": "メイ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、ゲームの進行を"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさん、みんながあなたの発言について興味を持っているみたいですね。もう少し具体的な意見や考え", "speaker": "ケンジ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、みんながあなた"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさん、みんながあなたの発言について興味を持っているみたいです。もう少し具体的な意見や考えを", "speaker": "ユミ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、みんながあなた"}], "co_roles": null, "affect": "P3"}
+{"text": "私の意見としては、他のプレイヤーの発言や行動を注意深く観察し、それに基づいて推理を進めることが重要だ", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "シュンイチさん、私もあなたの意見に賛成です。他のプレイヤーの行動を観察することは大切ですね。具体的に", "speaker": "ケンジ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、私もあなたの意"}], "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさん、ケンジさんの意見に賛成です！他のプレイヤーの行動を観察することで、少しずつ人狼を見つ", "speaker": "ユミ", "mentions": [{"target": "ケンジ", "valence": 0.0, "raw": "シュンイチさん、ケンジさんの意見に賛成です！他"}, {"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、ケンジさんの意"}], "co_roles": null, "affect": "P2"}
+{"text": "シュンイチさん、あなたの意見には共感します。他のプレイヤーの行動を観察することは、私たちが人狼を見つ", "speaker": "メイ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、あなたの意見に"}], "co_roles": null, "affect": "P2"}
+{"text": "私たちが人狼を見つけるために、全員が意見を出し合うことが重要です。具体的に誰が怪しいと感じているか、", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさんの意見に賛成します。全員が意見を出し合うことで、より多くの情報を得ることができます。具", "speaker": "タクミ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさんの意見に賛成しま"}], "co_roles": null, "affect": "P4"}
+{"text": "みんな、意見を出し合うことが大切ですね！私も全員が発言して、情報を共有することが人狼を見つける手助け", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "みんな、意見を出し合うことが本当に大切ですね！私も他のプレイヤーの行動を観察して、誰が怪しいか考えて", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、意見を出し合うことが本当に大切ですね！私も他のプレイヤーの行動を観察して、誰が怪しいか考えて", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、意見を出し合うことが重要です。私も他のプレイヤーの行動を観察して、誰が怪しいか考えています。", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "みなさん、意見を出し合うことが重要ですね。私も他のプレイヤーの行動を観察して、誰が怪しいか考えていま", "speaker": "タクミ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "みんな、意見を出し合うことが本当に大切ですね！それぞれの観察や考えを共有して、誰が怪しいか一緒に考え", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "みんなの意見が一致しているみたいですね！観察や考えを共有することが本当に大切です。私も注意深く考えて", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、みんなが意見を出し合う姿勢は素晴らしいですね！それぞれの観察を基に、誰が怪しいのかを一緒に考", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、意見が一致しているようですね。観察を基に推理を進める姿勢は素晴らしいと思います。ただ、具体的", "speaker": "シュンイチ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "シュンイチさん、具体的な意見や考えをもう少し教えてもらえますか？他のプレイヤーの行動について、どのよ", "speaker": "タクミ", "mentions": [{"target": "シュンイチ", "valence": 0.0, "raw": "シュンイチさん、具体的な意見や"}], "co_roles": null, "affect": "P2"}
+{"text": "皆さん、具体的な意見を出し合うのはとても重要ですね！シュンイチさん、タクミさんの質問に対してもう少し", "speaker": "ケンジ", "mentions": [{"target": "シュンイチ", "valence": 0.6666666666666666, "raw": "出し合うのはとても重要ですね！シュンイチさん、タクミさんの質"}, {"target": "タクミ", "valence": 0.25, "raw": "も重要ですね！シュンイチさん、タクミさんの質問に対してもう少"}], "co_roles": null, "affect": "P3"}
+{"text": "皆さん、意見を出し合っているのがとても良いですね！シュンイチさん、タクミさんの質問に対する具体的な考", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、意見を出し合うのが本当に大事ですね！シュンイチさん、具体的な考えを教えてもらえると、みんなの", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "私の考えとしては、占い結果を基に判断することが重要です。特に、ケンジは私が占った結果、どのような役職", "speaker": "シュンイチ", "mentions": [{"target": "ケンジ", "valence": 0.0, "raw": "判断することが重要です。特に、ケンジは私が占った結果、どのよ"}], "co_roles": null, "affect": "P2"}
+{"text": "シュンイチさん、占い結果についての考えを聞かせてくれてありがとう。占い結果を基にして、他のプレイヤー", "speaker": "タクミ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "皆さん、おはようございます。シュンイチさんが追放され、タクミさんが襲撃されましたね。今後の展開につい", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは残念です。これからの", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念です。これ", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "ユミ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、おはようございます！シュンイチさんが追放され、タクミさんが襲撃されたのは本当に残念ですね。こ", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P3"}

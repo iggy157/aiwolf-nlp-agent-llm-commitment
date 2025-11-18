@@ -1,4 +1,3 @@
-# src/utils/analysis_talk.py
 """Talk-level analysis (A + B + C).
 
 talk history から「1 発話ごとの分析結果(A)」を生成し、
@@ -12,7 +11,7 @@ A の出力（talk_analysis）:
 - co_roles:  当該発話でのCO役職 list[str] or null
 - affect:    発話全体の感情極性ラベル（"P1"〜"P5"）
 
-B の出力（obligation_store/{target}.json, JSONLines）:
+B の出力（obligation_store/{analyzer}/{target}.json, JSONLines）:
 - from_agent:    発話者
 - target_agent:  義務を負うターゲット
 - text:          該当発話内容
@@ -99,14 +98,20 @@ def append_talk_analysis_record(
 
 def append_obligations(
     game_id: str,
+    analyzer_name: str,
     obligations: List[dict[str, Any]],
 ) -> None:
-    """B の obligation レコード群を obligation_store/{target}.json に追記。"""
+    """B の obligation レコード群を obligation_store/{analyzer}/{target}.json に追記。
+
+    analyzer_name:
+        「この A/B/C 解析を走らせているエージェント」の名前。
+        AgentLogger と同様に、エージェントごとに別ディレクトリに分けるイメージ。
+    """
     for ob in obligations:
         target = ob.get("target_agent")
         if not target:
             continue
-        path = obligation_store_json_path(game_id, target)
+        path = obligation_store_json_path(game_id, analyzer_name, target)
         path.parent.mkdir(parents=True, exist_ok=True)
         with path.open("a", encoding="utf-8") as f:
             f.write(json.dumps(ob, ensure_ascii=False) + "\n")
@@ -119,7 +124,7 @@ def run_talk_analysis_for_new_talks(
     """Agent の talk_history[start_index:] に対して A/B/C を実行し、結果を保存する。
 
     - A: talk_analysis/{self.agent_name}.json に JSONL で追記
-    - B: obligation_store/{target}.json に JSONL で追記
+    - B: obligation_store/{self.agent_name}/{target}.json に JSONL で追記
     - C: commitment_store/{speaker}.json に JSONL で追記
 
     戻り値:
@@ -131,7 +136,7 @@ def run_talk_analysis_for_new_talks(
         return start_index
 
     game_id = agent.game_id
-    agent_name = agent.agent_name
+    analyzer_name = agent.agent_name
     alive_agents = agent.get_alive_agents()
 
     current_index = start_index
@@ -139,12 +144,12 @@ def run_talk_analysis_for_new_talks(
     for talk in talks:
         # --- A: talk_analysis ---
         a_record = build_talk_analysis_record(talk, alive_agents)
-        append_talk_analysis_record(game_id, agent_name, a_record)
+        append_talk_analysis_record(game_id, analyzer_name, a_record)
 
         # --- B: obligation_store ---
         obligations = derive_obligations_from_a_record(a_record)
         if obligations:
-            append_obligations(game_id, obligations)
+            append_obligations(game_id, analyzer_name, obligations)
 
         # --- C: commitment_store ---
         mentions = a_record.get("mentions") or []

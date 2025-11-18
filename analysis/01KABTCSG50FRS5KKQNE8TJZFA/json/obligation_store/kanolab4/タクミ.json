@@ -1,0 +1,4 @@
+{"from_agent": "メイ", "target_agent": "タクミ", "text": "タクミさん、確かに今日は重要な日ですね。皆さんの意見を聞いて、誰が怪しいのか、しっかり見極めていきた", "obligation": "acknowledge_obligation"}
+{"from_agent": "ケンジ", "target_agent": "タクミ", "text": "そうですね、タクミさん、メイさんの言う通り、今日は重要な日です。みんなの意見をしっかり聞いて、怪しい", "obligation": "acknowledge_obligation"}
+{"from_agent": "ケンジ", "target_agent": "タクミ", "text": "皆さん、具体的な意見を出し合うのはとても重要ですね！シュンイチさん、タクミさんの質問に対してもう少し", "obligation": "acknowledge_obligation"}
+{"from_agent": "ユミ", "target_agent": "タクミ", "text": "皆さん、意見を出し合っているのがとても良いですね！シュンイチさん、タクミさんの質問に対する具体的な考", "obligation": "acknowledge_obligation"}
