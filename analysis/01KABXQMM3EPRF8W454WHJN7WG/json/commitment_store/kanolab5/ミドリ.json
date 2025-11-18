@@ -1,0 +1,11 @@
+{"speaker": "ミドリ", "text": "私もまだ判断がついていませんが、他の皆さんの意見を聞くことが大切だと思います。特に、何か気になる行動", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}
+{"speaker": "ミドリ", "text": "私たち全員がまだ判断がつかない段階ですね。最近の行動を観察することが重要だと思います。特に、誰かが急", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミドリ", "text": "そうですね、皆さんの意見を聞いていると、やはり行動観察が非常に重要だと思います。この段階では、特に誰", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミドリ", "text": "そうですね、行動観察の重要性が皆さんの間で共通認識になっているのは良いことです。特に、発言や行動に不", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミドリ", "text": "そうですね、具体的な疑惑を持った人物について話し合うのは非常に重要です。私も気になることがありますの", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミドリ", "text": "そうですね、具体的な疑惑を持った人物について話し合うのは非常に重要です。私が気になるのは、トシオさん", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
+{"speaker": "ミドリ", "text": "私がトシオさんに疑惑を持った理由は、彼の発言の中にいくつかの矛盾を感じたからです。特に、行動観察の重", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
+{"speaker": "ミドリ", "text": "私がトシオさんに疑惑を持ったのは、彼の発言の中に行動観察に関する矛盾があったからです。特に、彼が言っ", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
+{"speaker": "ミドリ", "text": "トシオさん、あなたの発言について疑惑があるということは、皆さんが関心を持っている証拠です。私が指摘し", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
+{"speaker": "ミドリ", "text": "トシオさん、あなたの発言について疑惑があることが皆さんの間で再確認されています。具体的にどのように行", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
+{"speaker": "ミドリ", "text": "トシオさん、あなたの発言についての疑惑が再度浮上していることを理解しています。皆さんが指摘している点", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}

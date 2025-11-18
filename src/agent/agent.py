@@ -29,6 +29,7 @@ from aiwolf_nlp_common.packet import Info, Packet, Request, Role, Setting, Statu
 from utils.agent_logger import AgentLogger
 from utils.stoppable_thread import StoppableThread
 from utils.analysis_talk import run_talk_analysis_for_new_talks
+from utils.csv_builder import rebuild_csv_for_agent
 
 if TYPE_CHECKING:
     from collections.abc import Callable
@@ -446,6 +447,35 @@ class Agent:
     #     self.sent_talk_count = len(self.talk_history)
     #     return response or ""
 
+    # def talk(self) -> str:
+    #     """Return response to talk request.
+
+    #     トークリクエストに対する応答を返す.
+
+    #     Returns:
+    #         str: Talk message / 発言メッセージ
+    #     """
+    #     # ★ 1. 前回以降に追加された talk_history に対して A（talk_analysis）を実行
+    #     try:
+    #         self.last_analyzed_talk_index = run_talk_analysis_for_new_talks(
+    #             agent=self,
+    #             start_index=self.last_analyzed_talk_index,
+    #         )
+    #     except Exception:
+    #         # 解析でこけてもゲーム自体は止めない（ログだけ残す）
+    #         self.agent_logger.logger.exception(
+    #             "Failed to run talk analysis (A) for agent %s",
+    #             self.agent_name,
+    #         )
+
+    #     # ★ 2. いつも通り llm2 で発話を生成
+    #     response = self._send_message_to_llm(
+    #         self.request,
+    #         use_context_history=True,       # initialize + daily_initialize だけをベースにする
+    #         add_to_context_history=False,   # talk 自体はコンテキストには足さない
+    #     )
+    #     self.sent_talk_count = len(self.talk_history)
+    #     return response or ""
     def talk(self) -> str:
         """Return response to talk request.
 
@@ -454,7 +484,7 @@ class Agent:
         Returns:
             str: Talk message / 発言メッセージ
         """
-        # ★ 1. 前回以降に追加された talk_history に対して A（talk_analysis）を実行
+        # ★ 1. 前回以降に追加された talk_history に対して A/B/C 分析を実行
         try:
             self.last_analyzed_talk_index = run_talk_analysis_for_new_talks(
                 agent=self,
@@ -463,11 +493,20 @@ class Agent:
         except Exception:
             # 解析でこけてもゲーム自体は止めない（ログだけ残す）
             self.agent_logger.logger.exception(
-                "Failed to run talk analysis (A) for agent %s",
+                "Failed to run talk analysis (A/B/C) for agent %s",
                 self.agent_name,
             )
 
-        # ★ 2. いつも通り llm2 で発話を生成
+        # ★ 2. A/B/C の JSON から talk/agent CSV を再生成
+        try:
+            rebuild_csv_for_agent(self)
+        except Exception:
+            self.agent_logger.logger.exception(
+                "Failed to rebuild CSV for agent %s",
+                self.agent_name,
+            )
+
+        # ★ 3. いつも通り llm2 で発話を生成
         response = self._send_message_to_llm(
             self.request,
             use_context_history=True,       # initialize + daily_initialize だけをベースにする

@@ -1,0 +1,54 @@
+{"text": "皆さん、昼の時間が始まりましたね。まずは、誰が怪しいと思うか、意見を聞かせてください。何か気になる行", "speaker": "ベンジャミン", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "シオン: 私はまだ誰が怪しいか判断できていませんが、皆さんの意見を聞いて参考にしたいと思います。特に、", "speaker": "シオン", "mentions": [{"target": "シオン", "valence": -0.5, "raw": "シオン: 私はまだ誰が怪しいか"}], "co_roles": null, "affect": "P2"}
+{"text": "私もまだ判断がついていませんが、他の皆さんの意見を聞くことが大切だと思います。特に、何か気になる行動", "speaker": "ミドリ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "私もまだ誰が怪しいか判断しきれていませんが、皆さんの意見を参考にしたいと思います。特に、最近の行動や", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P1"}
+{"text": "みんな、意見を出してくれてありがとう！私もまだ誰が怪しいかは分からないけど、皆の意見を聞いて参考にし", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "ベンジャミン: 皆さん、意見を共有してくれてありがとうございます。まだ判断が難しい段階ですが、他の人の", "speaker": "ベンジャミン", "mentions": [{"target": "ベンジャミン", "valence": -0.5, "raw": "ベンジャミン: 皆さん、意見を"}], "co_roles": null, "affect": "P1"}
+{"text": "シオン: 皆さんの意見を聞いていると、まだ判断が難しいですが、特に最近の行動に注目する必要がありますね", "speaker": "シオン", "mentions": [{"target": "シオン", "valence": -0.25, "raw": "シオン: 皆さんの意見を聞いて"}], "co_roles": null, "affect": "P2"}
+{"text": "私たち全員がまだ判断がつかない段階ですね。最近の行動を観察することが重要だと思います。特に、誰かが急", "speaker": "ミドリ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "私も皆さんの意見を聞くことが大切だと思います。最近の行動を注視し、誰が怪しいのかを見極めるために、お", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "私も皆さんの意見に同意します。まだ情報が少ないですが、行動に注目していくのが大事ですね。特に、誰かの", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "ベンジャミン: 皆さんの意見を伺っていると、確かに情報が不足している現状では、行動を観察することが重要", "speaker": "ベンジャミン", "mentions": [{"target": "ベンジャミン", "valence": -0.5, "raw": "ベンジャミン: 皆さんの意見を"}], "co_roles": null, "affect": "P3"}
+{"text": "シオン: 確かに、現時点では情報が限られていますね。行動を観察しつつ、誰か特定の人物に注目する必要があ", "speaker": "シオン", "mentions": [{"target": "シオン", "valence": 0.5, "raw": "シオン: 確かに、現時点では情"}], "co_roles": null, "affect": "P3"}
+{"text": "そうですね、皆さんの意見を聞いていると、やはり行動観察が非常に重要だと思います。この段階では、特に誰", "speaker": "ミドリ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "トシオ: 皆さんの意見は非常に参考になりますね。情報が限られている今、特に注意が必要なのは、発言内容や", "speaker": "トシオ", "mentions": [{"target": "トシオ", "valence": -0.3333333333333333, "raw": "トシオ: 皆さんの意見は非常に"}], "co_roles": null, "affect": "P3"}
+{"text": "私も皆さんの意見に賛成です。行動観察が重要ですね。特に、発言や行動に不自然な点があったら、そこに注目", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "ベンジャミン: 皆さんの意見に賛同します。行動を観察することで、誰が本当に信頼できるのか、または疑わし", "speaker": "ベンジャミン", "mentions": [{"target": "ベンジャミン", "valence": -0.5, "raw": "ベンジャミン: 皆さんの意見に"}], "co_roles": null, "affect": "P3"}
+{"text": "シオン: 皆さんの意見に賛成です。行動観察は重要ですが、特に怪しい動きがあった場合には、しっかりとその", "speaker": "シオン", "mentions": [{"target": "シオン", "valence": 0.0, "raw": "シオン: 皆さんの意見に賛成で"}], "co_roles": null, "affect": "P3"}
+{"text": "そうですね、行動観察の重要性が皆さんの間で共通認識になっているのは良いことです。特に、発言や行動に不", "speaker": "ミドリ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "トシオ: 確かに、皆さんの言う通りです。行動観察は非常に重要です。特に、発言や行動に矛盾が生じた際には", "speaker": "トシオ", "mentions": [{"target": "トシオ", "valence": 0.5, "raw": "トシオ: 確かに、皆さんの言う"}], "co_roles": null, "affect": "P3"}
+{"text": "みんな、行動観察の重要性について話し合っていますね。やっぱり、発言や行動に矛盾がある人がいれば、そこ", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "みなさん、行動観察の重要性について引き続き話し合いましょう。前回の昼の話し合いの中で、特に怪しい動き", "speaker": "シオン", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "行動観察についての話が続いていますが、具体的な疑惑を持った人物がいるのであれば、その点についても話し", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "みんな、具体的な疑惑を持った人物がいれば、その点についても話し合いましょう！誰か気になる人がいますか", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "皆さん、具体的な疑惑を持った人物について話し合うことが重要です。私は、発言や行動に矛盾が見られる人物", "speaker": "ベンジャミン", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "そうですね、具体的な疑惑を持った人物について話し合うのは非常に重要です。私も気になることがありますの", "speaker": "ミドリ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "皆さん、具体的な疑惑について話し合うのは良い考えです。私が考えているのは、やはり行動や発言に一貫性が", "speaker": "シオン", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "確かに、具体的な疑惑を持った人物について話し合うことは重要です。私も気になる人物がいます。皆さんの意", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "みんな、具体的な疑惑を持った人物について話し合っているのですね。私は、やっぱり行動や発言に矛盾がある", "speaker": "ケンジ", "mentions": null, "co_roles": null, "affect": "P1"}
+{"text": "皆さん、具体的な疑惑を持った人物についての意見が出ていますね。私も気になる人物がいますが、やはり行動", "speaker": "ベンジャミン", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "そうですね、具体的な疑惑を持った人物について話し合うのは非常に重要です。私が気になるのは、トシオさん", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.5, "raw": "に重要です。私が気になるのは、トシオさん"}], "co_roles": null, "affect": "P3"}
+{"text": "皆さん、具体的な疑惑について話し合うのは良い考えです。私も気になる人物がいますが、まずは他の意見を聞", "speaker": "シオン", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "私が気になる人物についてお話ししましょう。ミドリさん、私に疑惑を持っているようですが、具体的にどのよ", "speaker": "トシオ", "mentions": [{"target": "ミドリ", "valence": -0.42857142857142855, "raw": "人物についてお話ししましょう。ミドリさん、私に疑惑を持ってい"}], "co_roles": null, "affect": "P2"}
+{"text": "ミドリさん、私が気になるのはあなたの疑いの根拠です。具体的にどのような行動が怪しいと思ったのか教えて", "speaker": "ケンジ", "mentions": [{"target": "ミドリ", "valence": 0.0, "raw": "ミドリさん、私が気になるのはあ"}], "co_roles": null, "affect": "P2"}
+{"text": "皆さん、具体的な疑惑についての意見交換が活発ですね。私も疑問があるので、ミドリさん、トシオさんのやり", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "も疑問があるので、ミドリさん、トシオさんのやり"}, {"target": "ミドリ", "valence": 0.0, "raw": "発ですね。私も疑問があるので、ミドリさん、トシオさんのやり"}], "co_roles": null, "affect": "P3"}
+{"text": "私がトシオさんに疑惑を持った理由は、彼の発言の中にいくつかの矛盾を感じたからです。特に、行動観察の重", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.25, "raw": "私がトシオさんに疑惑を持った理由は"}], "co_roles": null, "affect": "P3"}
+{"text": "皆さん、ミドリさんの意見について考えてみましょう。トシオさんの発言に矛盾が感じられるとのことですが、", "speaker": "シオン", "mentions": [{"target": "トシオ", "valence": -0.5, "raw": "意見について考えてみましょう。トシオさんの発言に矛盾が感じら"}, {"target": "ミドリ", "valence": -0.6666666666666666, "raw": "皆さん、ミドリさんの意見について考えて"}], "co_roles": null, "affect": "P2"}
+{"text": "私の発言について疑惑がかけられていることを理解しました。ミドリさんの指摘について、具体的にどの部分が", "speaker": "トシオ", "mentions": [{"target": "ミドリ", "valence": 0.0, "raw": "られていることを理解しました。ミドリさんの指摘について、具体"}], "co_roles": null, "affect": "P3"}
+{"text": "トシオさん、ミドリさんが指摘している矛盾について、具体的にどの部分が怪しいのか教えてほしいです。みん", "speaker": "ケンジ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、ミドリさんが指摘し"}, {"target": "ミドリ", "valence": -0.5, "raw": "トシオさん、ミドリさんが指摘している矛盾に"}], "co_roles": null, "affect": "P2"}
+{"text": "皆さんの意見が交錯していますね。トシオさん、ミドリさんの指摘について具体的に説明していただけると、み", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": -0.5, "raw": "さんの意見が交錯していますね。トシオさん、ミドリさんの指摘に"}, {"target": "ミドリ", "valence": -0.25, "raw": "交錯していますね。トシオさん、ミドリさんの指摘について具体的"}], "co_roles": null, "affect": "P2"}
+{"text": "私がトシオさんに疑惑を持ったのは、彼の発言の中に行動観察に関する矛盾があったからです。特に、彼が言っ", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "私がトシオさんに疑惑を持ったのは、"}], "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言についての疑惑がまだ解消されていないようです。具体的にどの部分が矛盾している", "speaker": "ケンジ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言についての疑惑がまだ解消されていないようです。具体的にどの部分が矛盾している", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}
+{"text": "私の発言が疑惑を招いていることは理解しています。ミドリさんが指摘したような矛盾について、具体的に説明", "speaker": "トシオ", "mentions": [{"target": "ミドリ", "valence": -0.2, "raw": "いていることは理解しています。ミドリさんが指摘したような矛盾"}], "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言について疑惑があるということは、皆さんが関心を持っている証拠です。私が指摘し", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P3"}
+{"text": "トシオさん、矛盾について具体的に説明していただけますか？皆が疑問を持っているので、はっきりさせる必要", "speaker": "ケンジ", "mentions": [{"target": "トシオ", "valence": -0.25, "raw": "トシオさん、矛盾について具体的"}], "co_roles": null, "affect": "P3"}
+{"text": "トシオさん、あなたの発言についての疑惑がまだ解消されていないようです。具体的にどの部分が矛盾している", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}
+{"text": "私の発言について疑惑がかけられていることを再度認識しています。具体的には、ミドリさんの指摘した行動観", "speaker": "トシオ", "mentions": [{"target": "ミドリ", "valence": -0.42857142857142855, "raw": "度認識しています。具体的には、ミドリさんの指摘した行動観"}], "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言について疑惑があることが皆さんの間で再確認されています。具体的にどのように行", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言についてまだ疑惑が残っていますね。具体的にどの点が矛盾しているのか、もう一度", "speaker": "ケンジ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P1"}
+{"text": "トシオさん、あなたの発言についての疑惑が依然として残っているようですね。具体的にどの部分が矛盾してい", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}
+{"text": "私の発言について疑惑が再度浮上していることを理解しています。皆さんが指摘している点について、具体的に", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P2"}
+{"text": "トシオさん、あなたの発言についての疑惑が再度浮上していることを理解しています。皆さんが指摘している点", "speaker": "ミドリ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P3"}
+{"text": "トシオさん、あなたの発言についてまだ疑惑が残っていますね。具体的にどの点が矛盾しているのか、もう一度", "speaker": "ケンジ", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P1"}
+{"text": "トシオさん、あなたの発言についての疑惑が再度浮上しているようです。具体的にどの点が矛盾しているのか、", "speaker": "ベンジャミン", "mentions": [{"target": "トシオ", "valence": 0.0, "raw": "トシオさん、あなたの発言につい"}], "co_roles": null, "affect": "P2"}

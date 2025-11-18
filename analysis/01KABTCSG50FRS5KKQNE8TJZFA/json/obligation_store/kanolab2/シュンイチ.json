@@ -1,9 +1,0 @@
-{"from_agent": "タクミ", "target_agent": "シュンイチ", "text": "みなさんの意見が出てきましたね。全員で協力して人狼を見つけていくことが本当に大切です。シュンイチさん", "obligation": "acknowledge_obligation"}
-{"from_agent": "ユミ", "target_agent": "シュンイチ", "text": "それでは、私からも意見を出しますね。シュンイチさんとメイさんの話を聞いて、具体的にどのポイントが怪し", "obligation": "defence_obligation"}
-{"from_agent": "シュンイチ", "target_agent": "シュンイチ", "text": "シュンイチ: 皆さん、私が怪しいと思うポイントについてお話しします。まず、初日の発言が少し慎重な印象を", "obligation": "acknowledge_obligation"}
-{"from_agent": "タクミ", "target_agent": "シュンイチ", "text": "みなさん、シュンイチさんが慎重な印象を持たれているようですね。それについてもう少し詳しく聞かせてもら", "obligation": "acknowledge_obligation"}
-{"from_agent": "メイ", "target_agent": "シュンイチ", "text": "シュンイチさんの初日の発言が慎重だった点について、私も気になります。彼の発言が具体的にどの部分で慎重", "obligation": "acknowledge_obligation"}
-{"from_agent": "ケンジ", "target_agent": "シュンイチ", "text": "シュンイチさんの慎重な発言について、みんなが疑問を持っているのは良いことですね。シュンイチさん、具体", "obligation": "acknowledge_obligation"}
-{"from_agent": "ケンジ", "target_agent": "シュンイチ", "text": "シュンイチさんの慎重な発言について、みんなが疑問を持っているのは良いことですね。シュンイチさん、具体", "obligation": "acknowledge_obligation"}
-{"from_agent": "ユミ", "target_agent": "シュンイチ", "text": "シュンイチさんの発言が慎重だった点について、具体的に教えてもらえますか？みんなで意見を共有して、真実", "obligation": "answer_obligation"}
-{"from_agent": "タクミ", "target_agent": "シュンイチ", "text": "シュンイチさん、具体的な意見や考えをもう少し教えてもらえますか？他のプレイヤーの行動について、どのよ", "obligation": "answer_obligation"}

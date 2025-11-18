@@ -1,0 +1,8 @@
+{"speaker": "シオン", "text": "シオン: 私はまだ誰が怪しいか判断できていませんが、皆さんの意見を聞いて参考にしたいと思います。特に、", "commitment_label": "assert_maybe_villager_side", "target_agent": "シオン", "weight": "light"}
+{"speaker": "シオン", "text": "シオン: 皆さんの意見を聞いていると、まだ判断が難しいですが、特に最近の行動に注目する必要がありますね", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "シオン", "text": "シオン: 確かに、現時点では情報が限られていますね。行動を観察しつつ、誰か特定の人物に注目する必要があ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "シオン", "text": "シオン: 皆さんの意見に賛成です。行動観察は重要ですが、特に怪しい動きがあった場合には、しっかりとその", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "シオン", "text": "みなさん、行動観察の重要性について引き続き話し合いましょう。前回の昼の話し合いの中で、特に怪しい動き", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}
+{"speaker": "シオン", "text": "皆さん、具体的な疑惑について話し合うのは良い考えです。私が考えているのは、やはり行動や発言に一貫性が", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "シオン", "text": "皆さん、具体的な疑惑について話し合うのは良い考えです。私も気になる人物がいますが、まずは他の意見を聞", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "シオン", "text": "皆さん、ミドリさんの意見について考えてみましょう。トシオさんの発言に矛盾が感じられるとのことですが、", "commitment_label": "assert_suspecttion", "target_agent": "トシオ", "weight": "medium"}
