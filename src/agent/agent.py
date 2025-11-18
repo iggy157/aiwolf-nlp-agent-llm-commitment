@@ -237,7 +237,7 @@ class Agent:
         if float(self.config["llm"].get("sleep_time", 0)) > 0:
             sleep(float(self.config["llm"]["sleep_time"]))
 
-        # ★ ここで必ず prompt_text を作る（この時点でまだ LLM は呼ばない）
+        # プロンプトテンプレートをレンダリングして prompt_text を作る
         template_str = self.config["prompt"][prompt_key]
         key: dict[str, Any] = {
             "info": self.info,
@@ -259,7 +259,7 @@ class Agent:
             llm_model = self.llm_models[llm_name]
             history_store = self.llm_message_histories.setdefault(llm_name, [])
         else:
-            # フォールバック: どのllm_nameも見つからない場合、最初の1つを使う
+            # フォールバック: どの llm_name も見つからない場合、最初の1つを使う
             if not self.llm_models:
                 self.agent_logger.logger.error("LLM '%s' is not initialized", llm_name)
                 return None
@@ -268,7 +268,7 @@ class Agent:
             history_store = self.llm_message_histories.setdefault(fallback_name, [])
             llm_name = fallback_name  # 実際に使った名前で上書き
 
-        # ★ ここで「LLM に見せる履歴（ベース）」を選ぶ
+        # 「LLM に見せる履歴（ベース）」を選ぶ
         if use_context_history:
             base_ctx = self.llm_context_histories.get(llm_name)
             if base_ctx is None:
@@ -285,17 +285,44 @@ class Agent:
             # ここで実際に LLM を叩く
             response = (llm_model | StrOutputParser()).invoke(history_for_llm)
 
-            # ★ 全履歴には必ず今回のやりとりを積む
+            # 全履歴には必ず今回のやりとりを積む
             history_store.append(HumanMessage(content=prompt_text))
             history_store.append(AIMessage(content=response))
 
-            # ★ 必要ならコンテキスト履歴にも積む
+            # 必要ならコンテキスト履歴にも積む
             if add_to_context_history:
                 ctx = self.llm_context_histories.setdefault(llm_name, [])
                 ctx.append(HumanMessage(content=prompt_text))
                 ctx.append(AIMessage(content=response))
 
+            # 既存のメインログ
             self.agent_logger.logger.info(["LLM", llm_name, prompt_text, response])
+
+            # 追加: llm1 / llm2 ごとの専用ログ
+            #   - llm2 → talk ログ
+            #   - llm1 → commitment ログ
+            try:
+                if llm_name == "llm2":
+                    self.agent_logger.log_llm_interaction(
+                        kind="talk",
+                        llm_name=llm_name,
+                        prompt=prompt_text,
+                        response=response,
+                    )
+                elif llm_name == "llm1":
+                    self.agent_logger.log_llm_interaction(
+                        kind="commitment",
+                        llm_name=llm_name,
+                        prompt=prompt_text,
+                        response=response,
+                    )
+            except Exception:
+                # ログ出力でコケてもゲーム自体は止めない
+                self.agent_logger.logger.exception(
+                    "Failed to write llm interaction log for %s",
+                    llm_name,
+                )
+
         except Exception:
             self.agent_logger.logger.exception("Failed to send message to LLM '%s'", llm_name)
             return None

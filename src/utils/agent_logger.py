@@ -76,6 +76,44 @@ class AgentLogger:
             handler.setFormatter(formatter)
             self.logger.addHandler(handler)
 
+            talk_dir = output_dir / "talk"
+            commitment_dir = output_dir / "commitment"
+            talk_dir.mkdir(parents=True, exist_ok=True)
+            commitment_dir.mkdir(parents=True, exist_ok=True)
+
+            self.talk_log_path = talk_dir / f"{self.name}.log"
+            self.commitment_log_path = commitment_dir / f"{self.name}.log"
+
+    def log_llm_interaction(
+        self,
+        kind: str,         # "talk" or "commitment"
+        llm_name: str,
+        prompt: str,
+        response: str,
+    ) -> None:
+        """LLM とのやり取りを専用ログファイルに追記する."""
+
+        if not bool(self.config["log"]["file_output"]):
+            return
+
+        # ファイルパスが初期化されていない場合は何もしない
+        if kind == "talk":
+            path = self.talk_log_path
+        elif kind == "commitment":
+            path = self.commitment_log_path
+        else:
+            return
+
+        if path is None:
+            return
+
+        now_str = datetime.now(UTC).astimezone().isoformat()
+
+        # シンプルに2行: ユーザー → AI
+        with path.open("a", encoding="utf-8") as f:
+            f.write(f"{now_str}\t[{llm_name}][USER]\t{prompt}\n")
+            f.write(f"{now_str}\t[{llm_name}][AI]\t{response}\n")
+
     def packet(self, req: Request | None, res: str | None) -> None:
         """Log packet information.
 
