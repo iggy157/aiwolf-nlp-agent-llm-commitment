@@ -1,0 +1,7 @@
+{"speaker": "メイ", "text": "シズエさん、皆さんと一緒に協力して村を守るために情報を共有することは大切ですね。私も何か気になること", "commitment_label": "assert_maybe_villager_side", "target_agent": "シズエ", "weight": "light"}
+{"speaker": "メイ", "text": "シズエさん、皆さんの意見を聞いていると、やはり協力の重要性がよくわかりますね。信頼関係を築いて、みん", "commitment_label": "assert_trust", "target_agent": "シズエ", "weight": "medium"}
+{"speaker": "メイ", "text": "皆さん、信頼関係がテーマになっていますね。それぞれの意見を尊重しながら、怪しい行動や発言にもしっかり", "commitment_label": "assert_maybe_wolf_side", "target_agent": null, "weight": "light"}
+{"speaker": "メイ", "text": "皆さん、信頼関係が本当に重要ですね。私たちが協力し合ってこの村を守るためには、しっかりと意見を交換し", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}
+{"speaker": "メイ", "text": "皆さん、本当に信頼関係が大切ですね。私たちが協力し合い、この村を守るためには、しっかりと意見を交換し", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}
+{"speaker": "メイ", "text": "皆さん、信頼を築くためには、具体的な行動が必要です。お互いの意見を尊重し、率直なコミュニケーションを", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "メイ", "text": "皆さん、信頼関係を築くことが非常に重要ですね。お互いに意見を尊重し、率直なコミュニケーションを取るこ", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}

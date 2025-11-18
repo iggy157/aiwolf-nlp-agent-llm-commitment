@@ -1,8 +1,7 @@
-# src/utils/commitment.py
 """Commitment analysis utilities (C).
 
 llm1 を用いて、1 発話から commitment ラベルを抽出し、
-analysis/{game_id}/json/commitment_store/{speaker}.json に保存する。
+analysis/{game_id}/json/commitment_store/{analyzer}/{speaker}.json に保存する。
 """
 
 from __future__ import annotations
@@ -26,7 +25,7 @@ def analyze_and_append_commitment(
     """C: llm1 を使って commitment を付与し、commitment_store に保存する。
 
     Args:
-        agent: 呼び出し元エージェント（llm1 呼び出しに使う）
+        agent: 呼び出し元エージェント（llm1 呼び出しに使う & analyzer として記録）
         talk: 対象の Talk 行
         mentions: A で計算した mentions（None/[] も可）
     """
@@ -68,7 +67,11 @@ def analyze_and_append_commitment(
         "weight": data.get("weight"),
     }
 
-    path = commitment_store_json_path(agent.game_id, talk.agent)
+    # analyzer = この関数を呼び出した Agent（= agent.agent_name）
+    analyzer_name = agent.agent_name
+    speaker_name = talk.agent
+
+    path = commitment_store_json_path(agent.game_id, analyzer_name, speaker_name)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a", encoding="utf-8") as f:
         f.write(json.dumps(row, ensure_ascii=False) + "\n")

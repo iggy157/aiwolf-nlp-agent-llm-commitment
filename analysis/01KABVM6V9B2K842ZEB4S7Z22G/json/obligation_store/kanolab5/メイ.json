@@ -1,0 +1,4 @@
+{"from_agent": "ミナト", "target_agent": "メイ", "text": "シズエさん、メイさんの言う通りですね。みんなで協力して情報を共有することが、村を守るためには必要です", "obligation": "acknowledge_obligation"}
+{"from_agent": "トシオ", "target_agent": "メイ", "text": "私たちが次に考慮すべきは、ミナトさんやメイさんの行動です。彼らの発言や行動から、真実を見抜く手がかり", "obligation": "defence_obligation"}
+{"from_agent": "トシオ", "target_agent": "メイ", "text": "私たちが次に注視すべきは、ミナトさんとメイさんの行動です。彼らの発言や行動から、真実を見抜く手がかり", "obligation": "defence_obligation"}
+{"from_agent": "トシオ", "target_agent": "メイ", "text": "私たちは残されたメンバーで協力して、この村を守らなければなりません。ミナトさん、メイさん、私たちの行", "obligation": "defence_obligation"}

@@ -1,0 +1,11 @@
+{"speaker": "ダイスケ", "text": "皆さん、シズエさん、メイさん、ミナトさんの意見に賛成です。私たちが協力して情報を共有することが、村を", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}
+{"speaker": "ダイスケ", "text": "ダイスケ: 皆さん、意見を出し合っていただいてありがとうございます。信頼関係を築くことが村を守るために", "commitment_label": "assert_maybe_villager_side", "target_agent": "ダイスケ", "weight": "light"}
+{"speaker": "ダイスケ", "text": "ダイスケ: 皆さん、信頼関係を築くことは本当に重要ですね。お互いの意見を尊重しながら、村を守るために協", "commitment_label": "assert_maybe_villager_side", "target_agent": "ダイスケ", "weight": "light"}
+{"speaker": "ダイスケ", "text": "ダイスケ: そうですね、信頼関係を築いていくことが重要です。お互いの意見をしっかり聞き合い、情報を共有", "commitment_label": "assert_maybe_villager_side", "target_agent": "ダイスケ", "weight": "light"}
+{"speaker": "ダイスケ", "text": "皆さんが信頼関係の重要性について話していますが、具体的にどのように信頼を築いていくべきだと思いますか", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "皆さんの意見を聞いていると、信頼関係を築くためにはお互いの意見を尊重し合うことが本当に大切だと思いま", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "信頼関係を築くことの重要性について、皆さんの意見が一致しているのは素晴らしいですね。お互いの意見を尊", "commitment_label": "assert_trust", "target_agent": null, "weight": "medium"}
+{"speaker": "ダイスケ", "text": "シズエさん、占いの結果についてお話ししてくれるとのことですが、どんな情報があったのか、ぜひ教えてくだ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "皆さん、シズエさんが追放されてしまったので、今後の方針を話し合う必要があります。誰が怪しいか、また次", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "皆さん、シズエさんの追放を受けて、次のターゲットや方針について意見を出し合いましょう。誰が怪しいと思", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "皆さん、シズエさんの追放を受けて、次のターゲットや方針についてしっかり話し合いましょう。誰が怪しいと", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}

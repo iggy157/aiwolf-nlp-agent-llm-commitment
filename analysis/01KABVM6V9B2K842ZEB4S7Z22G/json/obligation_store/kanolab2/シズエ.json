@@ -1,0 +1,5 @@
+{"from_agent": "シズエ", "target_agent": "シズエ", "text": "皆さん、私はシズエです。今日はみんなで話し合いをして、村を守るための情報を共有しましょう。誰か特に気", "obligation": "defence_obligation"}
+{"from_agent": "メイ", "target_agent": "シズエ", "text": "シズエさん、皆さんと一緒に協力して村を守るために情報を共有することは大切ですね。私も何か気になること", "obligation": "acknowledge_obligation"}
+{"from_agent": "ミナト", "target_agent": "シズエ", "text": "シズエさん、メイさんの言う通りですね。みんなで協力して情報を共有することが、村を守るためには必要です", "obligation": "acknowledge_obligation"}
+{"from_agent": "ダイスケ", "target_agent": "シズエ", "text": "皆さん、シズエさん、メイさん、ミナトさんの意見に賛成です。私たちが協力して情報を共有することが、村を", "obligation": "acknowledge_obligation"}
+{"from_agent": "メイ", "target_agent": "シズエ", "text": "シズエさん、皆さんの意見を聞いていると、やはり協力の重要性がよくわかりますね。信頼関係を築いて、みん", "obligation": "defence_obligation"}

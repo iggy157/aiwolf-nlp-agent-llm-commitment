@@ -1,0 +1,11 @@
+{"speaker": "トシオ", "text": "ダイスケさんの意見に賛成です。協力し合って情報を共有することが、村を守るために非常に重要です。皆さん", "commitment_label": "assert_trust", "target_agent": "ダイスケ", "weight": "medium"}
+{"speaker": "トシオ", "text": "皆さんの意見は本当に大切です。特に信頼関係の構築は、今後の村の運営において極めて重要です。お互いの言", "commitment_label": "assert_maybe_villager_side", "target_agent": null, "weight": "light"}
+{"speaker": "トシオ", "text": "トシオ: 確かに、信頼関係がこの村の運営には不可欠ですね。それぞれの意見をしっかりと聞き合い、怪しい行", "commitment_label": "assert_maybe_villager_side", "target_agent": "トシオ", "weight": "light"}
+{"speaker": "トシオ", "text": "トシオ: 確かに、信頼関係は村の運営において欠かせない要素です。私たちが協力し合い、意見をしっかりと交", "commitment_label": "assert_maybe_villager_side", "target_agent": "トシオ", "weight": "light"}
+{"speaker": "トシオ", "text": "信頼を築くためには、まずお互いの意見をしっかりと聞き、その上で透明性を持って行動することが重要です。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "トシオ", "text": "信頼関係を築くためには、まずお互いの意見をしっかりと聞き、率直なコミュニケーションを取ることが重要で", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "トシオ", "text": "皆さんの意見が一致しているのは良い兆候ですね。信頼関係を築くためには、今後のコミュニケーションが鍵と", "commitment_label": "assert_trust", "target_agent": null, "weight": "medium"}
+{"speaker": "トシオ", "text": "シズエさん、占いの結果についてお聞かせください。皆が興味を持っていますので、ぜひ詳しく教えてください", "commitment_label": "assert_inspect", "target_agent": "シズエ", "weight": "medium"}
+{"speaker": "トシオ", "text": "皆さん、シズエが追放されたことを受けて、今後の方針をしっかり話し合っていく必要があります。誰が怪しい", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}
+{"speaker": "トシオ", "text": "皆さん、シズエの追放が終わった今、次に誰が怪しいのか、しっかりと意見を出し合っていきましょう。私も冷", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "トシオ", "text": "皆さん、シズエの追放を経て、新たな疑念が生まれていると思います。次に誰が怪しいのか、しっかりと意見を", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}

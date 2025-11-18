@@ -1,0 +1,4 @@
+{"from_agent": "トシオ", "target_agent": "ダイスケ", "text": "ダイスケさんの意見に賛成です。協力し合って情報を共有することが、村を守るために非常に重要です。皆さん", "obligation": "defence_obligation"}
+{"from_agent": "ダイスケ", "target_agent": "ダイスケ", "text": "ダイスケ: 皆さん、意見を出し合っていただいてありがとうございます。信頼関係を築くことが村を守るために", "obligation": "defence_obligation"}
+{"from_agent": "ダイスケ", "target_agent": "ダイスケ", "text": "ダイスケ: 皆さん、信頼関係を築くことは本当に重要ですね。お互いの意見を尊重しながら、村を守るために協", "obligation": "acknowledge_obligation"}
+{"from_agent": "ダイスケ", "target_agent": "ダイスケ", "text": "ダイスケ: そうですね、信頼関係を築いていくことが重要です。お互いの意見をしっかり聞き合い、情報を共有", "obligation": "acknowledge_obligation"}

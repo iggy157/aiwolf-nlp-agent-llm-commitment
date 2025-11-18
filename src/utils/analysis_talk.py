@@ -17,7 +17,7 @@ B の出力（obligation_store/{analyzer}/{target}.json, JSONLines）:
 - text:          該当発話内容
 - obligation:    "answer_obligation" / "defence_obligation" / "acknowledge_obligation"
 
-C の出力（commitment_store/{speaker}.json, JSONLines）:
+C の出力（commitment_store/{analyzer}/{speaker}.json, JSONLines）:
 - speaker:           発話者
 - text:              該当発話内容
 - commitment_label:  コミットメントラベル名 or null
@@ -28,7 +28,7 @@ C の出力（commitment_store/{speaker}.json, JSONLines）:
 from __future__ import annotations
 
 import json
-from typing import TYPE_CHECKING, Any, Iterable, List
+from typing import TYPE_CHECKING, Any, List
 
 from aiwolf_nlp_common.packet import Talk
 
@@ -125,7 +125,7 @@ def run_talk_analysis_for_new_talks(
 
     - A: talk_analysis/{self.agent_name}.json に JSONL で追記
     - B: obligation_store/{self.agent_name}/{target}.json に JSONL で追記
-    - C: commitment_store/{speaker}.json に JSONL で追記
+    - C: commitment_store/{self.agent_name}/{speaker}.json に JSONL で追記
 
     戻り値:
         新たに処理し終えた talk_history の末尾インデックス。

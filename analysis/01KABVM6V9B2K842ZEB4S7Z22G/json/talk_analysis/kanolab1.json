@@ -1,0 +1,36 @@
+{"text": "皆さん、私はシズエです。今日はみんなで話し合いをして、村を守るための情報を共有しましょう。誰か特に気", "speaker": "シズエ", "mentions": [{"target": "シズエ", "valence": -0.2, "raw": "皆さん、私はシズエです。今日はみんなで話し"}], "co_roles": null, "affect": "P3"}
+{"text": "シズエさん、皆さんと一緒に協力して村を守るために情報を共有することは大切ですね。私も何か気になること", "speaker": "メイ", "mentions": [{"target": "シズエ", "valence": 0.5, "raw": "シズエさん、皆さんと一緒に協力"}], "co_roles": null, "affect": "P4"}
+{"text": "シズエさん、メイさんの言う通りですね。みんなで協力して情報を共有することが、村を守るためには必要です", "speaker": "ミナト", "mentions": [{"target": "シズエ", "valence": 1.0, "raw": "シズエさん、メイさんの言う通り"}, {"target": "メイ", "valence": 0.6, "raw": "シズエさん、メイさんの言う通りですね。みん"}], "co_roles": null, "affect": "P5"}
+{"text": "皆さん、シズエさん、メイさん、ミナトさんの意見に賛成です。私たちが協力して情報を共有することが、村を", "speaker": "ダイスケ", "mentions": [{"target": "シズエ", "valence": 0.5, "raw": "皆さん、シズエさん、メイさん、ミナトさ"}, {"target": "ミナト", "valence": 0.0, "raw": "皆さん、シズエさん、メイさん、ミナトさんの意見に賛成です。私"}, {"target": "メイ", "valence": 0.0, "raw": "皆さん、シズエさん、メイさん、ミナトさんの意見に賛"}], "co_roles": null, "affect": "P4"}
+{"text": "ダイスケさんの意見に賛成です。協力し合って情報を共有することが、村を守るために非常に重要です。皆さん", "speaker": "トシオ", "mentions": [{"target": "ダイスケ", "valence": -0.5, "raw": "ダイスケさんの意見に賛成です。"}], "co_roles": null, "affect": "P4"}
+{"text": "皆さん、意見を出し合っていただきありがとうございます。協力して村を守るためには、互いに信頼し合うこと", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "シズエさん、皆さんの意見を聞いていると、やはり協力の重要性がよくわかりますね。信頼関係を築いて、みん", "speaker": "メイ", "mentions": [{"target": "シズエ", "valence": -0.25, "raw": "シズエさん、皆さんの意見を聞い"}], "co_roles": null, "affect": "P4"}
+{"text": "みんなで協力して、村を守るためにしっかりと情報を共有していきましょう！信頼関係を大切にしながら、怪し", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P5"}
+{"text": "ダイスケ: 皆さん、意見を出し合っていただいてありがとうございます。信頼関係を築くことが村を守るために", "speaker": "ダイスケ", "mentions": [{"target": "ダイスケ", "valence": -0.3333333333333333, "raw": "ダイスケ: 皆さん、意見を出し"}], "co_roles": null, "affect": "P3"}
+{"text": "皆さんの意見は本当に大切です。特に信頼関係の構築は、今後の村の運営において極めて重要です。お互いの言", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係の大切さについてたくさんの意見が出ていますね。この村を守るためには、疑いを持たずにお", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係がテーマになっていますね。それぞれの意見を尊重しながら、怪しい行動や発言にもしっかり", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "みんなの意見がとても大切ですね。信頼関係を築くために、まずはそれぞれの考えや見解をしっかりと聞いてい", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "ダイスケ: 皆さん、信頼関係を築くことは本当に重要ですね。お互いの意見を尊重しながら、村を守るために協", "speaker": "ダイスケ", "mentions": [{"target": "ダイスケ", "valence": 0.75, "raw": "ダイスケ: 皆さん、信頼関係を"}], "co_roles": null, "affect": "P4"}
+{"text": "トシオ: 確かに、信頼関係がこの村の運営には不可欠ですね。それぞれの意見をしっかりと聞き合い、怪しい行", "speaker": "トシオ", "mentions": [{"target": "トシオ", "valence": 0.8, "raw": "トシオ: 確かに、信頼関係がこ"}], "co_roles": null, "affect": "P3"}
+{"text": "皆さん、信頼関係がテーマになっていますね。本当に大切なことだと思います。私たちが協力し合ってこの村を", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係が本当に重要ですね。私たちが協力し合ってこの村を守るためには、しっかりと意見を交換し", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P5"}
+{"text": "みんな、信頼関係の大切さについてたくさん話していますね。お互いに意見を聞き合うことで、どんな情報が得", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "ダイスケ: そうですね、信頼関係を築いていくことが重要です。お互いの意見をしっかり聞き合い、情報を共有", "speaker": "ダイスケ", "mentions": [{"target": "ダイスケ", "valence": 1.0, "raw": "ダイスケ: そうですね、信頼関"}], "co_roles": null, "affect": "P4"}
+{"text": "トシオ: 確かに、信頼関係は村の運営において欠かせない要素です。私たちが協力し合い、意見をしっかりと交", "speaker": "トシオ", "mentions": [{"target": "トシオ", "valence": 0.8, "raw": "トシオ: 確かに、信頼関係は村"}], "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係を築くことが大切ですね。お互いの意見を尊重しながら、どんな情報が得られるかを考えてい", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係を築くことが本当に大切ですね。お互いの意見を尊重し合いながら、協力してこの村を守って", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、本当に信頼関係が大切ですね。私たちが協力し合い、この村を守るためには、しっかりと意見を交換し", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P5"}
+{"text": "皆さんが信頼関係の重要性について話していますが、具体的にどのように信頼を築いていくべきだと思いますか", "speaker": "ダイスケ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "信頼を築くためには、まずお互いの意見をしっかりと聞き、その上で透明性を持って行動することが重要です。", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "信頼関係を築くためには、まずはお互いの意見をしっかりと聞くことが大切ですね。それに加えて、透明性を持", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係を築くためには、まずお互いの意見を尊重し合い、しっかりとコミュニケーションを取ること", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼を築くためには、具体的な行動が必要です。お互いの意見を尊重し、率直なコミュニケーションを", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さんの意見を聞いていると、信頼関係を築くためにはお互いの意見を尊重し合うことが本当に大切だと思いま", "speaker": "ダイスケ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "信頼関係を築くためには、まずお互いの意見をしっかりと聞き、率直なコミュニケーションを取ることが重要で", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "信頼関係を築くためには、やっぱりお互いの意見を大切にしないといけませんね。みんなの意見を尊重しながら", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "皆さん、信頼関係の重要性についてたくさん話していますね。それぞれの意見を聞くことが大切です。疑わしい", "speaker": "シズエ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さん、信頼関係を築くことが非常に重要ですね。お互いに意見を尊重し、率直なコミュニケーションを取るこ", "speaker": "メイ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "信頼関係を築くことの重要性について、皆さんの意見が一致しているのは素晴らしいですね。お互いの意見を尊", "speaker": "ダイスケ", "mentions": null, "co_roles": null, "affect": "P3"}
+{"text": "皆さんの意見が一致しているのは良い兆候ですね。信頼関係を築くためには、今後のコミュニケーションが鍵と", "speaker": "トシオ", "mentions": null, "co_roles": null, "affect": "P4"}
+{"text": "信頼関係を築くためには、やっぱりお互いの意見を大切にしないといけませんね。みんなの意見を尊重しながら", "speaker": "ミナト", "mentions": null, "co_roles": null, "affect": "P4"}
