@@ -1,4 +1,3 @@
-# src/utils/csv_builder.py
 """CSV builder utilities for analysis outputs.
 
 analysis/{game_id}/json 以下に溜めた A/B/C の結果から、
@@ -19,7 +18,7 @@ analysis/{game_id}/json 以下に溜めた A/B/C の結果から、
        - agent_name
        - co_roles            (JSON文字列: list[str])
        - suspicion           (S1〜S5)
-       - commitment_labels   (JSON文字列: {commitment_label: aggregated_weight})
+       - commitment_labels   (JSON文字列: list[{"commitment_label", "target_agent", "weight"}])
        - obligation_label    (直近の obligation ラベル or 空)
 """
 
@@ -129,14 +128,6 @@ def build_talk_csv_for_analyzer(game_id: str, analyzer_name: str) -> None:
 # ---- 2. agent CSV --------------------------------------------------------
 
 
-# commitment の heavy/medium/light を数値にして集計したい場合の重み付け
-WEIGHT_SCORE = {
-    "heavy": 3.0,
-    "medium": 2.0,
-    "light": 1.0,
-}
-
-
 def _compute_co_roles_for_agent(
     talk_records: List[Dict[str, Any]],
     target_agent_name: str,
@@ -172,27 +163,39 @@ def _compute_commitment_labels_for_agent(
     game_id: str,
     analyzer_name: str,
     target_agent_name: str,
-) -> Dict[str, float]:
-    """commitment_store から target_agent が発話者のコミットメントを集計する.
+) -> List[Dict[str, Any]]:
+    """commitment_store から target_agent が発話者のコミットメント一覧を取得する.
 
     形式:
-        {commitment_label: aggregated_weight_score}
+        [
+            {
+                "commitment_label": str,
+                "target_agent": str | None,
+                "weight": "heavy" | "medium" | "light" | None
+            },
+            ...
+        ]
     """
     path = commitment_store_json_path(game_id, analyzer_name, target_agent_name)
     rows = _load_jsonl(path)
     if not rows:
-        return {}
+        return []
 
-    agg: dict[str, float] = {}
+    commitments: list[dict[str, Any]] = []
     for rec in rows:
         label = rec.get("commitment_label")
-        weight_str = rec.get("weight")
         if not label:
+            # commitment_label が無い行はスキップ
             continue
-        score = WEIGHT_SCORE.get(str(weight_str), 1.0)
-        agg[label] = agg.get(label, 0.0) + score
+        commitments.append(
+            {
+                "commitment_label": label,
+                "target_agent": rec.get("target_agent"),
+                "weight": rec.get("weight"),
+            },
+        )
 
-    return agg
+    return commitments
 
 
 def _compute_obligation_label_for_agent(

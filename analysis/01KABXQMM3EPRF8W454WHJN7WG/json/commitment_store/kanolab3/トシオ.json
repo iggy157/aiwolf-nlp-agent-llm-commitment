@@ -1,7 +1,0 @@
-{"speaker": "トシオ", "text": "私もまだ誰が怪しいか判断しきれていませんが、皆さんの意見を参考にしたいと思います。特に、最近の行動や", "commitment_label": "assert_maybe_wolf_side", "target_agent": null, "weight": "light"}
-{"speaker": "トシオ", "text": "私も皆さんの意見を聞くことが大切だと思います。最近の行動を注視し、誰が怪しいのかを見極めるために、お", "commitment_label": "assert_maybe_wolf_side", "target_agent": null, "weight": "light"}
-{"speaker": "トシオ", "text": "トシオ: 皆さんの意見は非常に参考になりますね。情報が限られている今、特に注意が必要なのは、発言内容や", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "トシオ", "text": "トシオ: 確かに、皆さんの言う通りです。行動観察は非常に重要です。特に、発言や行動に矛盾が生じた際には", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "トシオ", "text": "行動観察についての話が続いていますが、具体的な疑惑を持った人物がいるのであれば、その点についても話し", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}
-{"speaker": "トシオ", "text": "確かに、具体的な疑惑を持った人物について話し合うことは重要です。私も気になる人物がいます。皆さんの意", "commitment_label": "assert_suspecttion", "target_agent": null, "weight": "medium"}
-{"speaker": "トシオ", "text": "私が気になる人物についてお話ししましょう。ミドリさん、私に疑惑を持っているようですが、具体的にどのよ", "commitment_label": "assert_suspecttion", "target_agent": "ミドリ", "weight": "medium"}

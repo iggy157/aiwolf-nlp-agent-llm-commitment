@@ -1,6 +1,0 @@
-agent_name,co_roles,suspicion,commitment_labels,obligation_label
-ケンジ,[],S3,"{""assert_maybe_wolf_side"": 1.0, ""assert_maybe_villager_side"": 2.0, ""assert_suspecttion"": 14.0}",
-シオン,[],S3,"{""assert_maybe_villager_side"": 1.0, ""assert_suspecttion"": 4.0}",acknowledge_obligation
-トシオ,[],S3,"{""assert_maybe_wolf_side"": 1.0, ""assert_suspecttion"": 10.0, ""assert_maybe_villager_side"": 1.0}",answer_obligation
-ベンジャミン,[],S4,"{""assert_maybe_villager_side"": 1.0, ""assert_suspecttion"": 10.0}",defence_obligation
-ミドリ,[],S4,"{""assert_maybe_villager_side"": 1.0, ""assert_suspecttion"": 10.0, ""assert_maybe_wolf_side"": 1.0}",defence_obligation

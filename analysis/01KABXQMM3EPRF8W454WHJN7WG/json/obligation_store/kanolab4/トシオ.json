@@ -1,7 +1,0 @@
-{"from_agent": "トシオ", "target_agent": "トシオ", "text": "トシオ: 皆さんの意見は非常に参考になりますね。情報が限られている今、特に注意が必要なのは、発言内容や", "obligation": "defence_obligation"}
-{"from_agent": "トシオ", "target_agent": "トシオ", "text": "トシオ: 確かに、皆さんの言う通りです。行動観察は非常に重要です。特に、発言や行動に矛盾が生じた際には", "obligation": "acknowledge_obligation"}
-{"from_agent": "ミドリ", "target_agent": "トシオ", "text": "そうですね、具体的な疑惑を持った人物について話し合うのは非常に重要です。私が気になるのは、トシオさん", "obligation": "acknowledge_obligation"}
-{"from_agent": "ミドリ", "target_agent": "トシオ", "text": "私がトシオさんに疑惑を持った理由は、彼の発言の中にいくつかの矛盾を感じたからです。特に、行動観察の重", "obligation": "acknowledge_obligation"}
-{"from_agent": "シオン", "target_agent": "トシオ", "text": "皆さん、ミドリさんの意見について考えてみましょう。トシオさんの発言に矛盾が感じられるとのことですが、", "obligation": "defence_obligation"}
-{"from_agent": "ベンジャミン", "target_agent": "トシオ", "text": "皆さんの意見が交錯していますね。トシオさん、ミドリさんの指摘について具体的に説明していただけると、み", "obligation": "defence_obligation"}
-{"from_agent": "ケンジ", "target_agent": "トシオ", "text": "トシオさん、矛盾について具体的に説明していただけますか？皆が疑問を持っているので、はっきりさせる必要", "obligation": "answer_obligation"}

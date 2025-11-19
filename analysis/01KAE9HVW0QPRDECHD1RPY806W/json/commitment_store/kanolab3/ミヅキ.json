@@ -1,0 +1,11 @@
+{"speaker": "ミヅキ", "text": "@ミドリ こんにちは！私はまだ具体的な情報はありませんが、皆さんの印象をしっかりと観察しています。気に @ケンジ  そうですね、皆さんの意見を聞くのが大事ですね。どなたか特に気になる方はいらっしゃいますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミヅキ", "text": "@ミドリ こんにちは！皆さんの意見を聞くのが大事ですね。私も印象を整理しながら、怪しい人や気になること @ケンジ 、あなたの印象はどうですか？", "commitment_label": "assert_suspecttion", "target_agent": "ケンジ", "weight": "medium"}
+{"speaker": "ミヅキ", "text": " @ケンジ  ありがとう！私もあなたの意見を聞いて安心しました。@ミドリ の印象については、彼女はしっかりした意見を", "commitment_label": "assert_trust", "target_agent": "ケンジ", "weight": "medium"}
+{"speaker": "ミヅキ", "text": "@リュウジ みんなの意見を聞く姿勢が素晴らしいですね。私も、@ミドリ の考え方には共感します。お互いの意 @ケンジ  や @ミサキ の意見もぜひ聞きたいです。何か気になることがあれば教えてください！", "commitment_label": "assert_trust", "target_agent": "ミドリ", "weight": "medium"}
+{"speaker": "ミヅキ", "text": "@リュウジ みんなの意見を聞く姿勢が素晴らしいですね。@ミドリ の観察による影響についての意見、とても興 @ケンジ  の具体的な提案もぜひ聞きたいです。@ミサキ、あなたはどう思いますか？他の皆さんからも意見があれば教え", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミヅキ", "text": " @ケンジ 、具体的な疑われている人物についての考えを教えてください。@リュウジの質問にも答えてあげてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミヅキ", "text": " @ケンジ  それでは、私も気になりますが、具体的にどのような行動や発言が疑わしいと感じましたか？@ミドリ の意見も", "commitment_label": "assert_suspecttion", "target_agent": "ケンジ", "weight": "medium"}
+{"speaker": "ミヅキ", "text": " @ケンジ   それは興味深いですね。発言のトーンや反応が疑わしいと感じる理由について、もう少し具体的に教えていただ", "commitment_label": "assert_suspecttion", "target_agent": "ケンジ", "weight": "medium"}
+{"speaker": "ミヅキ", "text": " @ケンジ  みんなの意見がとても重要ですね。あなたの考えをもう少し詳しく聞かせてください。@リュウジ はどう思いま", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミヅキ", "text": " @ケンジ   なるほど、発言のトーンや行動が重要だという意見には賛成です。私もそれに基づいて観察を続けます。@リュ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ミヅキ", "text": " @ケンジ  そうですね、緊張感が増しているのは感じます。私も引き続き、他のエージェントの行動や発言を観察していき", "commitment_label": null, "target_agent": null, "weight": null}
