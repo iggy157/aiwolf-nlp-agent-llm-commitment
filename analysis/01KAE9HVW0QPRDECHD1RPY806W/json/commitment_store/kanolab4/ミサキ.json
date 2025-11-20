@@ -1,7 +1,0 @@
-{"speaker": "ミサキ", "text": "@ミドリ こんにちは！私もまだ具体的な情報はありませんが、皆さんの意見を聞きながら、誰が怪しいかを見極 @ケンジ 、あなたの印象はいかがですか？他のエージェントについても気になることがあれば教えてください。", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミサキ", "text": " @ケンジ  こんにちは！皆さんの意見を聞くのは大事ですね。あなたの印象や、他のエージェントについて気になることが", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミサキ", "text": " @ミヅキ   ありがとう！あなたの意見を聞けて安心しました。@リュウジ 、あなたはどう思いますか？他のエージェントに", "commitment_label": "assert_trust", "target_agent": "ミヅキ", "weight": "medium"}
-{"speaker": "ミサキ", "text": "@リュウジ みんなの意見をしっかりと聞く姿勢が大切ですね。@ミドリ 、あなたの観察中という意見には共感し @ケンジ  、あなたは他に気になる点はありますか？どんどん意見を出し合いましょう。", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミサキ", "text": "@ミドリ みんなの意見がゲームにどのように影響するかを考えるのは重要ですね。 @ケンジ 、あなたの具体的な提案を聞かせてもらえますか？他の皆さんも、気になることや意見があればぜひ共有してく", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミサキ", "text": " @ケンジ  具体的に疑われている人物について、あなたの考えをぜひ聞かせてください。@リュウジ の質問にも答えてあげ", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミサキ", "text": " @ケンジ   皆さんの観察が重要ですね。@ミドリ と @ミヅキ の行動について、具体的にどんな点が気になりますか？私も一", "commitment_label": null, "target_agent": null, "weight": null}

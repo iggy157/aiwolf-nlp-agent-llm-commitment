@@ -1,0 +1,20 @@
+{"from_agent": "サクラ", "target_agent": "ミドリ", "text": "@セルヴァス そうですね、穏やかな雰囲気ですが、何か気になることがあればどんどん教えてくださいね！皆さ @ユミ  みんなの意見が楽しみですね！何か気になることがあったら、ぜひ教えてください！ @ミドリ 皆さんの意見を聞", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ミドリ", "text": "@セルヴァス そうですね、穏やかな雰囲気ですが、何か気になることがあればどんどん教えてくださいね！皆さ @ユミ  みんなの意見が楽しみですね！何か気になることがあったら、ぜひ教えてください！ @ミドリ 皆さんの意見を聞", "obligation": "answer_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ   みんなの意見を聞くのが楽しみですね！穏やかな雰囲気ですが、何か気になることがあれば教えてくださいね。", "obligation": "answer_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ   みんなの意見を聞くのが楽しみですね！穏やかな雰囲気ですが、何か気になることがあれば教えてくださいね。", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ミドリ", "text": " @ミドリ  そうだね、みんなの意見をしっかり聞いていくことが大切だと思う！ミドリは何か気になることがあったりする", "obligation": "acknowledge_obligation"}
+{"from_agent": "サクラ", "target_agent": "ミドリ", "text": " @ユミ  うーん、実はミドリが少し怪しいなって思ってるの。理由は、彼女の発言がちょっと慎重すぎる感じがして、何", "obligation": "defence_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ミドリ", "text": " @サクラ   なるほど、ミドリが怪しいと感じているんですね。その発言が慎重すぎると感じる理由について、もう少し詳し", "obligation": "defence_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @サクラ   なるほど、ミドリが怪しいと思った理由がわかりました！具体的にどの発言が気になったのか、もう少し詳しく", "obligation": "defence_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ミドリ", "text": " @ミドリ   あなたの発言が他の意見を確認する形になっているとのことですが、その意図について教えてもらえますか？自", "obligation": "answer_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ミドリ", "text": " @ミドリ   あなたの発言が他の意見を確認する形になっているとのことですが、その意図について教えてもらえますか？自", "obligation": "answer_obligation"}
+{"from_agent": "ミナコ", "target_agent": "ミドリ", "text": " @ミドリ   皆の意見を大切にする姿勢は素晴らしいですが、少し自分の意見を積極的に出してみるのも良いかもしれません", "obligation": "acknowledge_obligation"}
+{"from_agent": "ミナコ", "target_agent": "ミドリ", "text": " @ミドリ   皆の意見を大切にする姿勢は素晴らしいですが、少し自分の意見を積極的に出してみるのも良いかもしれません", "obligation": "acknowledge_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ミドリ", "text": " @ミドリ  あなたの考えを尊重する姿勢は素晴らしいですが、具体的にどういう意見や考えを持っているのか、もう少し教", "obligation": "acknowledge_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ミドリ", "text": " @ミドリ  あなたの考えを尊重する姿勢は素晴らしいですが、具体的にどういう意見や考えを持っているのか、もう少し教", "obligation": "acknowledge_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ  そうなんですね！サクラの発言が気になる理由を教えてもらえますか？みんなで考える手助けになるかもしれま", "obligation": "answer_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ  そうなんですね！サクラの発言が気になる理由を教えてもらえますか？みんなで考える手助けになるかもしれま", "obligation": "answer_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ  なるほど、サクラの意見があいまいだったんですね。それがどう影響すると思いますか？もう少し詳しく聞かせ", "obligation": "answer_obligation"}
+{"from_agent": "ユミ", "target_agent": "ミドリ", "text": " @ミドリ  なるほど、サクラの意見があいまいだったんですね。それがどう影響すると思いますか？もう少し詳しく聞かせ", "obligation": "answer_obligation"}
+{"from_agent": "ミナコ", "target_agent": "ミドリ", "text": " @ミドリ  あなたがこれまでの議論で気になっている点や、特に疑わしいと思う人物について教えてもらえますか？その意", "obligation": "answer_obligation"}
+{"from_agent": "ミナコ", "target_agent": "ミドリ", "text": " @ミドリ  あなたがこれまでの議論で気になっている点や、特に疑わしいと思う人物について教えてもらえますか？その意", "obligation": "answer_obligation"}

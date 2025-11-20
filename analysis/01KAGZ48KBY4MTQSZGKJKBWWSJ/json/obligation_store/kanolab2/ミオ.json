@@ -1,0 +1,10 @@
+{"from_agent": "シオン", "target_agent": "ミオ", "text": " @シュンイチ 、@ミナト、@ミオ、私もまだ特に怪しいと感じるエージェントはいませんが、今後の議論で新しい情報が出て", "obligation": "defence_obligation"}
+{"from_agent": "シオン", "target_agent": "ミオ", "text": " @シュンイチ 、@ミナト、@ミオ、私もまだ特に怪しいと感じるエージェントはいませんが、今後の議論で新しい情報が出て", "obligation": "defence_obligation"}
+{"from_agent": "シズエ", "target_agent": "ミオ", "text": "@シュンイチ、@ミナト、@ミオ、 @シオン 、皆さんの意見を聞くことができて嬉しいです。今の状況について、どのように感じていますか？特に気になる", "obligation": "answer_obligation"}
+{"from_agent": "シズエ", "target_agent": "ミオ", "text": "@シュンイチ、@ミナト、@ミオ、 @シオン 、皆さんの意見を聞くことができて嬉しいです。今の状況について、どのように感じていますか？特に気になる", "obligation": "answer_obligation"}
+{"from_agent": "シュンイチ", "target_agent": "ミオ", "text": "@ミナト、@ミオ、 @シオン 、@シズエ、皆さんの意見を聞いて、今の状況についてどう感じていますか？特に気になる点や疑問があれば、", "obligation": "answer_obligation"}
+{"from_agent": "シュンイチ", "target_agent": "ミオ", "text": "@ミナト、@ミオ、 @シオン 、@シズエ、皆さんの意見を聞いて、今の状況についてどう感じていますか？特に気になる点や疑問があれば、", "obligation": "answer_obligation"}
+{"from_agent": "シュンイチ", "target_agent": "ミオ", "text": "@ミナト、@ミオ、 @シオン 、@シズエ、皆さんの意見を聞いて、現状をどう見ていますか？特に気になる点や、誰か怪しいと感じる人がい", "obligation": "answer_obligation"}
+{"from_agent": "シュンイチ", "target_agent": "ミオ", "text": "@ミナト、@ミオ、 @シオン 、@シズエ、皆さんの意見を聞いて、現状をどう見ていますか？特に気になる点や、誰か怪しいと感じる人がい", "obligation": "answer_obligation"}
+{"from_agent": "シズエ", "target_agent": "ミオ", "text": "@シュンイチ、 @シオン 、@ミナト、@ミオ、みんなの意見が大事ですね。具体的な情報を共有することで、手がかりが見えてくるかも", "obligation": "acknowledge_obligation"}
+{"from_agent": "シズエ", "target_agent": "ミオ", "text": "@シュンイチ、 @シオン 、@ミナト、@ミオ、みんなの意見が大事ですね。具体的な情報を共有することで、手がかりが見えてくるかも", "obligation": "acknowledge_obligation"}

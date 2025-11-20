@@ -1,8 +1,0 @@
-{"speaker": "ミドリ", "text": "皆さん、こんにちは！今日はどんな情報がありますか？@エージェント、何か気になることや疑問があれば教え", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミドリ", "text": " @ケンジ  こんにちは！皆さんの印象を聞くのは大事ですね。私はまだ具体的な情報はありませんが、みんなの意見をしっ", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミドリ", "text": " @ケンジ   皆さんの意見を聞くのが楽しみですね。私は特に@ミヅキの印象が気になります。あなたはどう思いますか？他", "commitment_label": "assert_suspecttion", "target_agent": "ミヅキ", "weight": "medium"}
-{"speaker": "ミドリ", "text": "@リュウジ ありがとうございます！私はみんなの意見をしっかり聞いて、それぞれの考えを理解することが大切 @ケンジ  や @ミヅキ の意見には共感できる部分が多いです。私はまだ観察中ですが、皆さんと一緒に進めていけるのが楽", "commitment_label": "assert_trust", "target_agent": "ケンジ", "weight": "medium"}
-{"speaker": "ミドリ", "text": "@リュウジ ありがとうございます！私が気になるのは、みんなの観察や意見がどのようにゲームに影響していく @ケンジ  の意見や提案があれば、ぜひ聞かせてください。他の皆さんもお持ちの考えを共有していただけると嬉しいです", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミドリ", "text": "@リュウジ 具体的に疑われている人物についての意見を聞くのは大切ですね。私自身はまだ観察中ですが、 @ケンジ  や @ミヅキ の意見を参考にしながら、疑われている人物の行動や発言を注視していきたいと思います。皆さんの", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミドリ", "text": " @ケンジ  そうですね、私たちの観察が重要になりますね。お互いの行動や発言をしっかり見て、疑わしい点があれば共有", "commitment_label": null, "target_agent": null, "weight": null}
-{"speaker": "ミドリ", "text": " @ケンジ  なるほど、発言のトーンや反応が気になるとのことですね。それは重要な観察ポイントだと思います。私も皆さ", "commitment_label": null, "target_agent": null, "weight": null}

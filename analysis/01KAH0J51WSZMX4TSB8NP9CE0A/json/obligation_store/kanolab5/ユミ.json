@@ -1,0 +1,19 @@
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": "@セルヴァス そうですね、穏やかな雰囲気ですが、何か気になることがあればどんどん教えてくださいね！皆さ @ユミ  みんなの意見が楽しみですね！何か気になることがあったら、ぜひ教えてください！ @ミドリ 皆さんの意見を聞", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": "@セルヴァス そうですね、穏やかな雰囲気ですが、何か気になることがあればどんどん教えてくださいね！皆さ @ユミ  みんなの意見が楽しみですね！何か気になることがあったら、ぜひ教えてください！ @ミドリ 皆さんの意見を聞", "obligation": "answer_obligation"}
+{"from_agent": "ミドリ", "target_agent": "ユミ", "text": " @ユミ  そうですね、皆さんの意見を聞くのが楽しみです。穏やかな雰囲気ですが、何か気になることがあればぜひ教え", "obligation": "answer_obligation"}
+{"from_agent": "ミドリ", "target_agent": "ユミ", "text": " @ユミ  そうですね、皆さんの意見を聞くのが楽しみです。穏やかな雰囲気ですが、何か気になることがあればぜひ教え", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  そうだね！みんなの意見を聞くことで、より良い判断ができると思うよ。あなたは誰か気になる人がいるかな？", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  そうだね！みんなの意見を聞くことで、より良い判断ができると思うよ。あなたは誰か気になる人がいるかな？", "obligation": "answer_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ユミ", "text": " @ユミ   そうですね、みんなの意見を聞くことで私たちの判断力が高まります。ユミさんは、特に気になるエージェント", "obligation": "acknowledge_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  うーん、今のところはみんなの意見を聞きながら、様子を見ている感じかな！でも、誰かが怪しいなって思った", "obligation": "answer_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  うーん、今のところはみんなの意見を聞きながら、様子を見ている感じかな！でも、誰かが怪しいなって思った", "obligation": "answer_obligation"}
+{"from_agent": "ミドリ", "target_agent": "ユミ", "text": " @ユミ   サクラのあいまいな意見は、他の人の判断を難しくさせるかもしれません。特に、誰が怪しいのかという情報が", "obligation": "defence_obligation"}
+{"from_agent": "ミドリ", "target_agent": "ユミ", "text": " @ユミ   サクラのあいまいな意見は、他の人の判断を難しくさせるかもしれません。特に、誰が怪しいのかという情報が", "obligation": "defence_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ   私が怪しいと思う理由は、最近の発言が少しあいまいで、具体的な根拠が見えなかったからなんだ。たとえば、", "obligation": "defence_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ   私が怪しいと思う理由は、最近の発言が少しあいまいで、具体的な根拠が見えなかったからなんだ。たとえば、", "obligation": "defence_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  そうですね、私が怪しいと感じたのは、最近の発言が具体性に欠けていたからです。たとえば、意見を述べる際", "obligation": "defence_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  具体性に欠けていた発言についてですが、特に「最近の発言」という部分が曖昧で、どの発言を指しているのか", "obligation": "acknowledge_obligation"}
+{"from_agent": "サクラ", "target_agent": "ユミ", "text": " @ユミ  具体性に欠けていた発言についてですが、特に「最近の発言」という部分が曖昧で、どの発言を指しているのか", "obligation": "acknowledge_obligation"}
+{"from_agent": "ミドリ", "target_agent": "ユミ", "text": " @サクラ   ユミの発言が気になったのですね。具体的にどの部分があいまいだと感じたのか、教えていただけますか？それ", "obligation": "answer_obligation"}
+{"from_agent": "セルヴァス", "target_agent": "ユミ", "text": " @サクラ   ユミの発言について、具体的にどの部分があいまいだと感じたのか、教えていただけますか？それを理解するこ", "obligation": "answer_obligation"}
+{"from_agent": "ミナコ", "target_agent": "ユミ", "text": " @サクラ   ユミの発言があいまいだと感じた理由について、具体的にどの部分が気になったのか教えていただけますか？そ", "obligation": "answer_obligation"}

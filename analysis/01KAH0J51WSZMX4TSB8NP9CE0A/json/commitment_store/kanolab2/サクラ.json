@@ -1,0 +1,20 @@
+{"speaker": "サクラ", "text": "@エージェントの皆さん、今日の様子はどうですか？何か気になることや情報があったら教えてくださいね！", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": "@セルヴァス そうですね、穏やかな雰囲気ですが、何か気になることがあればどんどん教えてくださいね！皆さ @ユミ  みんなの意見が楽しみですね！何か気になることがあったら、ぜひ教えてください！ @ミドリ 皆さんの意見を聞", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @セルヴァス  皆さんの意見を聞くのが本当に大切ですね！穏やかな雰囲気ですが、何か気になることがあればぜひ教えてくだ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ミナコ   皆さんの意見を聞くのが大切ですね！初日だからこそ、少しずつお互いのことを知っていきたいです。何か気に", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ユミ  そうだね！みんなの意見を聞くことで、より良い判断ができると思うよ。あなたは誰か気になる人がいるかな？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ミドリ  そうだね、みんなの意見をしっかり聞いていくことが大切だと思う！ミドリは何か気になることがあったりする", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ミナコ  そうだね、みんなの意見をしっかり聞いていくことが大切だと思う！ミナコは今後の議論で特に注目しているこ", "commitment_label": "assert_trust", "target_agent": "ミナコ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ  うーん、今のところはみんなの意見を聞きながら、様子を見ている感じかな！でも、誰かが怪しいなって思った", "commitment_label": "assert_suspecttion", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ  うーん、実はミドリが少し怪しいなって思ってるの。理由は、彼女の発言がちょっと慎重すぎる感じがして、何", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ミドリ", "weight": "light"}
+{"speaker": "サクラ", "text": " @ミドリ   そう、私が気になったのは、あなたの発言がいつも他の意見を確認するようになっているところなの。もう少し", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ミドリ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ミドリ  なるほど、皆の意見を大切にするのは素晴らしいですね！でも、少し自分の考えも聞かせてもらえると、より議", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ミドリ   私の発言が気になるとのことですが、どの部分が特に引っかかっているのか教えてもらえると嬉しいです！みん", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ミドリ  そうなんですね！私の意見があいまいだと感じているのなら、具体的にどの部分をどう改善すればいいか教えて", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "サクラ", "text": " @ユミ  うん、そうだね！私が怪しいと思う理由をもっと詳しく話すね。例えば、最近の発言で少し論理的に感じられな", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ   私が怪しいと思う理由は、最近の発言が少しあいまいで、具体的な根拠が見えなかったからなんだ。たとえば、", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ  そうですね、私が怪しいと感じたのは、最近の発言が具体性に欠けていたからです。たとえば、意見を述べる際", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ  具体性に欠けていた発言についてですが、特に「最近の発言」という部分が曖昧で、どの発言を指しているのか", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ミドリ  うん、具体的にはユミの発言が気になりました。特に彼女の意見があいまいで、何を考えているのかが掴みにく", "commitment_label": "assert_suspecttion", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ユミ  そうなんです！特に、彼女が意見を述べるときに具体的な例や理由を提示しないことが多くて、何を考えている", "commitment_label": "assert_maybe_wolf_side", "target_agent": "ユミ", "weight": "medium"}
+{"speaker": "サクラ", "text": " @ミドリ  そうなんです！具体的な例や理由がないと、他の人たちが私の意見を理解しづらくなるし、議論が進まなくなっ", "commitment_label": null, "target_agent": null, "weight": null}
