@@ -1,0 +1,6 @@
+agent_name,co_roles,suspicion,commitment_labels,obligation_label
+ケンジ,[],S3,[],
+ジョージ,[],S3,"[{""commitment_label"": ""assert_result_seer_villager"", ""target_agent"": ""ダイスケ"", ""weight"": ""heavy""}]",
+ダイスケ,"[""werewolf"", ""werewolf""]",S3,"[{""commitment_label"": ""assert_villager_side"", ""target_agent"": ""発話者自身"", ""weight"": ""heavy""}, {""commitment_label"": ""assert_villager_side"", ""target_agent"": ""発話者自身"", ""weight"": ""heavy""}, {""commitment_label"": ""assert_suspecttion"", ""target_agent"": ""ベンジャミン"", ""weight"": ""medium""}, {""commitment_label"": ""assert_suspecttion"", ""target_agent"": ""ベンジャミン"", ""weight"": ""medium""}, {""commitment_label"": ""assert_suspecttion"", ""target_agent"": ""ベンジャミン"", ""weight"": ""medium""}]",answer_obligation
+ベンジャミン,[],S3,[],defence_obligation
+リン,[],S3,[],answer_obligation

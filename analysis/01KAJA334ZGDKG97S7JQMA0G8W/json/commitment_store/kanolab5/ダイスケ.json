@@ -1,0 +1,15 @@
+{"speaker": "ダイスケ", "text": "@アヤさん、自己紹介をお願いします。あなたの役職についても教えてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんが待っています。自己紹介と役職についてお話ししていただけますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんが待っています。自己紹介と役職についてお話ししていただけますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職についてお話ししてくれるのを楽しみにしています。どうぞお話", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職についてお話ししてくれるのを楽しみにしています。どうぞお話", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職についてお話ししてくれるのを楽しみにしています。どうぞお話", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職についてお話ししてくれるのを楽しみにしています。どうぞお話", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職について聞きたがっています。お話ししていただけますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": " @ジョージ さん、昨夜の占い結果についてですが、正直なところ、少し不安を感じています。どんな結果が出たのかによっ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": " @ジョージ  さん、昨夜の占い結果についてですが、実は私もあまり詳しくはわからないんです。どのような結果が出たのか", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": " @ジョージ  さん、占い結果について私も知りたいです。もし何か具体的なことがわかれば教えてください。皆で協力してい", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ダイスケ", "text": " @ジョージ  さん、占い結果ありがとうございます。私は人狼ではないとのことで安心しました。他に占った方の結果があれ", "commitment_label": "assert_villager_side", "target_agent": "発話者自身", "weight": "heavy"}
+{"speaker": "ダイスケ", "text": " @リン  さん、占い結果についてはまだお話ししていませんでした。私は人狼ではないという結果をもらっています。他", "commitment_label": "assert_villager_side", "target_agent": "発話者自身", "weight": "heavy"}
+{"speaker": "ダイスケ", "text": " @リン  さん、ありがとうございます。私が気になるのは、ベンジャミンさんです。彼の行動や発言に少し不安を感じて", "commitment_label": "assert_suspecttion", "target_agent": "ベンジャミン", "weight": "medium"}
+{"speaker": "ダイスケ", "text": " @ベンジャミン  さん、私が不安を感じているのは、あなたの発言が少し曖昧に思えたことです。具体的には、他のプレイヤーと", "commitment_label": "assert_suspecttion", "target_agent": "ベンジャミン", "weight": "medium"}

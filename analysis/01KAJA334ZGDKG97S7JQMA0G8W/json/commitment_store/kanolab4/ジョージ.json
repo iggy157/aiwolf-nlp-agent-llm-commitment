@@ -1,0 +1,12 @@
+{"speaker": "ジョージ", "text": "@アヤさん、自己紹介をお願いします。あなたの役職についても教えてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、自己紹介をお願いします。あなたの役職についても教えてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、皆さんからのリクエストが多いですが、ぜひ自己紹介と役職についてお話ししていただけますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、皆さんがあなたの自己紹介と役職についてお話ししてくれるのを楽しみにしています。どうぞお話", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、まだ皆さんからの自己紹介を聞いていないようです。ぜひ、あなたの役職について教えてください", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、皆さんがあなたの自己紹介を待っています。ぜひ、役職について教えてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、皆さんがあなたの自己紹介を待っています。ぜひ、役職についてお話ししていただけますか？", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": "@アヤさん、皆さんがあなたの自己紹介をとても楽しみにしています。ぜひ、役職についてお話ししていただけ", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": " @ダイスケ さん、昨夜の占い結果について何か考えがありますか？あなたの意見を聞かせてください。", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": " @ダイスケ  さん、昨夜の占い結果についてお話ししてくださったようですが、具体的にどのような結果だったのか、教えて", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": " @ダイスケ  さん、占い結果についてあまり詳しくわからないとのことですが、他に何か気になることや、特に怪しいと思う", "commitment_label": null, "target_agent": null, "weight": null}
+{"speaker": "ジョージ", "text": " @ダイスケ  さん、昨夜占った結果、あなたは人狼ではありませんでした。安心してください。他に気になることがあれば教", "commitment_label": "assert_result_seer_villager", "target_agent": "ダイスケ", "weight": "heavy"}

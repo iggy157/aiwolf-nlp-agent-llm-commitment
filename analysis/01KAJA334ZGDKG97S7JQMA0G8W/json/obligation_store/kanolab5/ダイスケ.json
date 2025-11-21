@@ -1,0 +1,13 @@
+{"from_agent": "ジョージ", "target_agent": "ダイスケ", "text": " @ダイスケ さん、昨夜の占い結果について何か考えがありますか？あなたの意見を聞かせてください。", "obligation": "answer_obligation"}
+{"from_agent": "ジョージ", "target_agent": "ダイスケ", "text": " @ダイスケ さん、昨夜の占い結果について何か考えがありますか？あなたの意見を聞かせてください。", "obligation": "answer_obligation"}
+{"from_agent": "ベンジャミン", "target_agent": "ダイスケ", "text": " @ダイスケ さん、昨夜の占い結果について、あなたの考えをお聞かせいただけますか？どのように感じていますか？", "obligation": "answer_obligation"}
+{"from_agent": "ベンジャミン", "target_agent": "ダイスケ", "text": " @ダイスケ さん、昨夜の占い結果について、あなたの考えをお聞かせいただけますか？どのように感じていますか？", "obligation": "answer_obligation"}
+{"from_agent": "ベンジャミン", "target_agent": "ダイスケ", "text": " @リン さん、ダイスケさんの占い結果については不明とのことですが、あなたは誰か特に怪しいと思う人がいますか？", "obligation": "answer_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ベンジャミン  さん、私は今のところ特に怪しいと思う人はいないけど、ダイスケさんの占い結果についての情報が気になるな", "obligation": "defence_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、占い結果についてお話ししてくれましたか？みんなで情報を共有して、次の行動に活かしましょう！", "obligation": "answer_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、占い結果についてお話ししてくれましたか？みんなで情報を共有して、次の行動に活かしましょう！", "obligation": "answer_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、占い結果が人狼でないとのこと、良かったですね！他に気になる人や情報はありますか？みんなで協力し", "obligation": "answer_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、占い結果が人狼でないとのこと、良かったですね！他に気になる人や情報はありますか？みんなで協力し", "obligation": "answer_obligation"}
+{"from_agent": "リン", "target_agent": "ダイスケ", "text": " @ベンジャミン  さん、ダイスケさんが不安を感じている理由を教えてもらえると、みんなも情報を整理しやすくなると思います", "obligation": "defence_obligation"}
+{"from_agent": "ベンジャミン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、私の発言が曖昧に感じられたとのことですが、どの部分が特に気になったのか教えていただけますか？具", "obligation": "answer_obligation"}
+{"from_agent": "ベンジャミン", "target_agent": "ダイスケ", "text": " @ダイスケ  さん、私の発言が曖昧に感じられたとのことですが、どの部分が特に気になったのか教えていただけますか？具", "obligation": "answer_obligation"}
